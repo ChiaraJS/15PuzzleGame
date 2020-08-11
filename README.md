@@ -1,4 +1,4 @@
-<h1 align="center">15 Puzzle Game <g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8">🕹</g-emoji>
+<h1 align="center">15 Puzzle Game <g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8">🕹</g-emoji></h1>
 
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/github/repo-size/ChiaraJS/15PuzzleGame?color=btightgreen&label=Repo%20Size&logo=GitHub">
