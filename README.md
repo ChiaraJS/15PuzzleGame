@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">Classic 15 Puzzle Game on JavaScript.</p>
-<!--<p align="center"><a href"">VIEW THE DEMO</a></p>-->
+<p align="center"><a href"https://chiarajs.github.io/">VIEW THE DEMO</a></p>
 
 <hr>
 
