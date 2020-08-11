@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>15 Puzzle</title>
+    <meta name="description" content="Move numbers in grid to order them from 1 to 15!">
+    <meta name="author" content="Chiara Papagni">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+        <table id="header">
+            <tr>
+                <th>
+                    <h1>15 Puzzle</h1>
+                </th>
+                <th>
+                    <button id="solve">Solve</button><br>
+                    <button id="reset">Reset</button>
+                </th>
+            </tr>
+        </table>
+    </header>
+
+    <div id="box">
+        <div id="grid"></div>
+    </div>
+
+    <div class="modal">
+        <div id="modal-box">
+            <span class="close-modal">&times;</span>
+            <br>
+            <h2>Congratulations!</h2>
+            <p>
+                You completed the game in
+                <span class="moves"></span>
+                moves and
+                <span class="hours"></span>
+                <span class="mins"></span>
+                <span class="seconds"></span>.
+            </p>
+            <br>
+            <button class="play-again" id="reset">Play again</button>
+            <br>
+        </div>
+    </div>
+
+    <div class="modal">
+        <div id="modal-box">
+            <span class="close-modal">&times;</span>
+            <br>
+            <h2>
+                <p id="message"></p>
+            </h2>
+            <p id="p">
+                <span id="moves"></span>
+                <span id="end-time"></span>
+            </p>
+            <div id="button-group">
+                <button id="restart">Restart</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Import jQuery -->
+    <script src="http://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <!-- Import from /lib and /js -->
+    <script src="lib/fastclick.js"></script>
+    <script src="js/game.js"></script>
+</body>
+
+</html>
