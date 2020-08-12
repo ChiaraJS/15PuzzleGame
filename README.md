@@ -1,7 +1,7 @@
 <h1 align="center">15 Puzzle Game <g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8">🕹</g-emoji></h1>
 
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/repo-size/ChiaraJS/15PuzzleGame?color=btightgreen&label=Repo%20Size&logo=GitHub">
+  <img alt="GitHub" src="https://img.shields.io/github/languages/code-size/ChiaraJS/15PuzzleGame?color=brightgreen&label=Code%20Size&logo=github">
   <a href="https://github.com/ChiaraJS/15PuzzleGame/issues"><img alt="GitHub" src="https://img.shields.io/github/issues/ChiaraJS/15PuzzleGame?color=yellow&label=Issues&logo=github"></a>
   <a href="https://github.com/ChiaraJS/15PuzzleGame/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/ChiaraJS/15PuzzleGame?color=blue&label=License&logo=github"></a>
   <img alt="Gitter" src="https://img.shields.io/gitter/room/ChiaraJS/15PuzzleGame?color=orange&label=Chat&logo=gitter">
