@@ -23,8 +23,8 @@ More info about the game here -> <a href="https://en.wikipedia.org/wiki/15_puzzl
 <p>Click on the block beside the empty one to swap them, to win the game you should get an array of ordered numbers, while the last block is empty.</p>
 
 <h3>&emsp;Screenshot</h3>
-<p><img width="40%" src="">
-<img width="40%" src=""></p>
+<p><img width="40%" src="https://github.com/ChiaraJS/15PuzzleGame/blob/master/img/screenshot1.png?raw=true">
+<img width="40%" src="https://github.com/ChiaraJS/15PuzzleGame/blob/master/img/screenshot2.png?raw=true"></p>
 
 <h2>Libraries</h2>
 <ul>
