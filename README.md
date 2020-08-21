@@ -9,8 +9,12 @@
   <!--<img alt="GitHub" src="https://img.shields.io/github/downloads/ChiaraJS/15PuzzleGame/total?color=red&label=Downloads&logo=github">-->
 </p>
 
-<p align="center"><i>Classic 15 Puzzle Game on JavaScript.</i></p>
-<p align="center"><a href="https://chiarajs.github.io/ChiaraJS/src/html/15PuzzleGame.html"><i><b>Demo</b></i></a></p>
+<p align="center">
+  <i>Classic 15 Puzzle Game on JavaScript.</i> <a href="https://chiarajs.github.io/ChiaraJS/src/html/15PuzzleGame.html"><i><b>Demo</b></i></a>
+</p>
+<p align="center">
+  <img alt="Website" src="https://img.shields.io/website?label=Website&up_message=Up&url=https%3A%2F%2Fchiarajs.github.io%2FChiaraJS%2F">
+</p>
 
 <hr>
 
